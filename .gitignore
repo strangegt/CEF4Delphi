@@ -72,3 +72,6 @@ bin/*.bin
 bin/*.dat
 demos/FMXExternalPumpBrowser/FMXExternalPumpBrowser.res
 
+*.ppu
+*.compiled
+*.obj
